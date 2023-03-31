@@ -1,6 +1,6 @@
 Name:		texlive-tetragonos
 Version:	49732
-Release:	1
+Release:	2
 Summary:	Four-Corner codes of Chinese characters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tetragonos
