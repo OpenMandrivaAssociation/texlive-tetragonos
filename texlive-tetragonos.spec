@@ -3,7 +3,7 @@ Version:	49732
 Release:	2
 Summary:	Four-Corner codes of Chinese characters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tetragonos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tetragonos
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tetragonos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tetragonos.doc.r%{version}.tar.xz
